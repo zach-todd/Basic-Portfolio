@@ -1,19 +1,21 @@
 	h1{
 
 	}
-	h2{
+	h2{ color:#4aaaa5;
+		font-family: "gerogia";
+		font-size: 25px;
 
 	}
-	h3{
-
-	}
+	
 	#maincontainer{
 
 	}
 	.name{
 
 	}
-	.navigation{
+	.navigation{ font-size: 30px;
+		font-family: "times";
+		color: #777777;
 
 	}
 	#content{
@@ -32,4 +34,7 @@
 		height:196px; 
 		width:262px;
 		padding:30px;
+	}
+	p{
+		color:#777777;
 	}
